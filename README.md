@@ -1,6 +1,6 @@
 # Python Linear Algebra
 
-This repository tries to replicate the core concept expressed in [3Blue1Brown's Essence of linear algebra playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with Python, showcasing the power of Numpy.
+This repository tries to replicate the core concepts expressed in [3Blue1Brown's Essence of linear algebra playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with Python, showcasing the power of Numpy.
 
 ## Getting Started
 
@@ -32,13 +32,7 @@ To activate the virtual environment and run Python scripts or Jupyter notebooks:
     source .venv/bin/activate
     ```
 
-2.  **Run a Python script:**
-
-    ```bash
-    python main.py
-    ```
-
-3.  **Run Jupyter Notebooks:**
+2.  **Run Jupyter Notebooks:**
 
     launch Jupyter Lab:
 
