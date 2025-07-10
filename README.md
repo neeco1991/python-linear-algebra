@@ -1,5 +1,7 @@
 # Python Linear Algebra
 
+This repository tries to replicate the core concept expressed in [3Blue1Brown's Essence of linear algebra playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) with Python, showcasing Numpy powers.
+
 ## Getting Started
 
 This project uses `uv` for dependency management and environment setup.
