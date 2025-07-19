@@ -40,4 +40,4 @@ To activate the virtual environment and run Python scripts or Jupyter notebooks:
     jupyter lab
     ```
 
-    You can then open `01_vectors.ipynb` in your browser.
+    You can then open `*.ipynb` in your browser.
